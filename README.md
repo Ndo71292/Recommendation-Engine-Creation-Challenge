@@ -53,4 +53,6 @@ The primary task is to predict the ratings for specific comedy events per indivi
 - Continuous monitoring and refinement of the recommendation system based on user feedback and evolving content preferences.
 - Regular updates to the model and feature engineering strategies for enhanced accuracy.
 
+Click on the link to go to main project file https://github.com/Ndo71292/Recommendation-Engine-Creation-Challenge/blob/main/Comedy%20Recommendation%20Engine.ipynb
+
 Feel free to explore the codebase and reach out for any questions or collaborations!
